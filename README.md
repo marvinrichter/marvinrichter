@@ -14,7 +14,7 @@ Based in Berlin. Available for architecture reviews, modernisation engagements, 
 
 ### Side projects
 
-**[gloam](https://github.com/marvinrichter/gloam)** — 45 terminal and editor colour themes, each built from a single atmospheric concept.
+**[gloam](https://github.com/marvinrichter/gloam)** — 54 terminal and editor colour themes, each built from a single atmospheric concept.
 
 ---
 
