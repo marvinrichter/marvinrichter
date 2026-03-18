@@ -10,6 +10,8 @@ Based in Berlin. Available for architecture reviews, modernisation engagements, 
 
 **[spring-hexagonal-archetype](https://github.com/marvinrichter/spring-hexagonal-archetype)** — Maven archetype generating a Spring Boot 4 + Java 25 project with hexagonal (ports-and-adapters) architecture enforced by ArchUnit. One working vertical slice, Testcontainers integration tests, Micrometer wired. This is the structure I use on every greenfield client engagement.
 
+**[jvm-modernisation-playbook](https://github.com/marvinrichter/jvm-modernisation-playbook)** — Patterns for migrating legacy JVM monoliths to modern Spring Boot architecture, with runnable code examples. Covers Strangler Fig, Branch-by-Abstraction, and Anti-Corruption Layer — each as a before/after Spring Boot project with a feature flag to switch between legacy and hexagonal target state.
+
 ---
 
 ### Side projects
@@ -20,7 +22,7 @@ Based in Berlin. Available for architecture reviews, modernisation engagements, 
 
 ### Available for
 
-- Architecture reviews of existing JVM codebases
+- Architecture reviews of existing codebases
 - Modernisation engagements (Strangler Fig, Branch-by-Abstraction, ACL)
 - Greenfield Spring Boot service setup
 
