@@ -1,8 +1,8 @@
 # Marvin Richter — Freelance Software Architect
 
-I help engineering teams modernise JVM systems and set up architectures that scale without becoming unmaintainable — so they can ship features again instead of fighting the codebase.
+I help engineering teams modernise legacy systems and set up architectures that scale without becoming unmaintainable — so they can ship features again instead of fighting the codebase.
 
-Based in Berlin. Available for architecture reviews, modernisation engagements, and greenfield JVM projects.
+Based in Berlin. Primary focus is JVM; available for architecture reviews, modernisation engagements, and greenfield projects across stacks.
 
 ---
 
