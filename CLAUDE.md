@@ -11,14 +11,13 @@ Single file: `README.md` — plain GitHub Flavored Markdown, no build step.
 ## Heading hierarchy
 
 - `h1` — name/title
-- `h2` — sections (JVM Architecture, Side projects, Available for)
+- `h2` — sections (JVM Architecture, Side projects)
 - No `h3` or deeper
 
 ## Sections
 
 - **JVM Architecture** — open-source projects related to Spring Boot / hexagonal architecture
 - **Side projects** — everything else (gloam, etc.)
-- **Available for** — service offerings; primary focus is JVM but other stacks accepted occasionally
 
 ## Editing guidelines
 
@@ -26,4 +25,4 @@ Single file: `README.md` — plain GitHub Flavored Markdown, no build step.
 - Match the existing tone: direct, technical, no marketing fluff
 - New projects go under the appropriate section, sorted by relevance (most representative first)
 - Do not add emojis, badges, or images
-- Marvin's focus is JVM but he does reviews and engagements for other stacks too — do not frame non-JVM work as off-limits
+- No freelance or "available for hire" framing — this is an OSS developer profile only

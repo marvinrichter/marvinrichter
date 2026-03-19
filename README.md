@@ -1,14 +1,12 @@
-# Marvin Richter — Freelance Software Architect
+# Marvin Richter — Software Architect
 
-I help engineering teams modernise legacy systems and set up architectures that scale without becoming unmaintainable — so they can ship features again instead of fighting the codebase.
-
-Based in Berlin. Primary focus is JVM; available for architecture reviews, modernisation engagements, and greenfield projects across stacks.
+Software architect based in Berlin. Primary focus is JVM — Spring Boot, hexagonal architecture, and legacy modernisation.
 
 ---
 
 ## JVM Architecture
 
-**[spring-hexagonal-archetype](https://github.com/marvinrichter/spring-hexagonal-archetype)** — Maven archetype generating a Spring Boot 4 + Java 25 project with hexagonal (ports-and-adapters) architecture enforced by ArchUnit. One working vertical slice, Testcontainers integration tests, Micrometer wired. This is the structure I use on every greenfield client engagement.
+**[spring-hexagonal-archetype](https://github.com/marvinrichter/spring-hexagonal-archetype)** — Maven archetype generating a Spring Boot 4 + Java 25 project with hexagonal (ports-and-adapters) architecture enforced by ArchUnit. One working vertical slice, Testcontainers integration tests, Micrometer wired.
 `Java 25` `Spring Boot 4` `Hexagonal Architecture` `ArchUnit` `Testcontainers`
 
 **[jvm-modernisation-playbook](https://github.com/marvinrichter/jvm-modernisation-playbook)** — Patterns for migrating legacy JVM monoliths to modern Spring Boot architecture, with runnable code examples. Covers Strangler Fig, Branch-by-Abstraction, and Anti-Corruption Layer — each as a before/after Spring Boot project with a feature flag to switch between legacy and hexagonal target state. [Read the playbook →](https://marvinrichter.github.io/jvm-modernisation-playbook)
@@ -19,16 +17,6 @@ Based in Berlin. Primary focus is JVM; available for architecture reviews, moder
 ## Side projects
 
 **[gloam](https://github.com/marvinrichter/gloam)** — 54 terminal and editor colour themes, each built from a single atmospheric concept.
-
----
-
-## Available for
-
-- Architecture reviews of existing JVM codebases
-- Modernisation engagements (Strangler Fig, Branch-by-Abstraction, ACL)
-- Greenfield Spring Boot service setup
-
-Primary focus is JVM; occasional reviews and engagements for other stacks.
 
 ---
 
